@@ -1331,6 +1331,12 @@ a:hover .fa-apple{
     margin-left: -15%;
 }
 
+.more-link {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
 
 /*Contact Page CSS */
 
@@ -1350,7 +1356,7 @@ a:hover .fa-apple{
 .allrights {
     text-align: center;
     color: white;
-    font-family: Helvetica;
+    font-family: VCR_OSD_MONO;
     font-size: .7em;
 }
 
